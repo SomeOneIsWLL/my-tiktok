@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tiktok-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tiktok-common/target/tiktok-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
